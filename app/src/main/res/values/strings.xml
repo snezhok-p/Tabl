@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Tabl</string>
+    <string name="add">Добавить</string>
+    <string name="del">Удалить</string>
+</resources>
